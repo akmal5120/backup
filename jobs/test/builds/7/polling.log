@@ -1,0 +1,12 @@
+Started on Jul 17, 2021 8:38:00 AM
+Using strategy: Default
+[poll] Last Built Revision: Revision 19a605d1558eb1bd9cfa0509bef3497b24adabf1 (refs/remotes/origin/master)
+The recommended git tool is: NONE
+No credentials specified
+ > git --version # timeout=10
+ > git --version # 'git version 2.27.0'
+ > git ls-remote -h -- https://github.com/akmal5120/new.git # timeout=10
+Found 1 remote heads on https://github.com/akmal5120/new.git
+[poll] Latest remote head revision on refs/heads/master is: 2300e1ab5ad3dea442878617e97edbf880c99e2c
+Done. Took 90 ms
+Changes found
